@@ -8,8 +8,8 @@ IDE : VSCode
 Hosting : GitHub
 
 🔗 Links
-Link to web-app : https://utsav8191.github.io/Todo-app/
+Link to web-app : todoappcn.netlify.app
 
 
 📬 Contact Me
-Email : utsavkumargupta8191@gmail.com
+Email : msmane112@gmail.com
